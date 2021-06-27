@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suraj-singh12
-- 👀 I’m interested in IT Automation and System Administrative tasks and Google Cloud and services, as well as C, C++ and Linux
-- 🌱 I’m currently learning Google IT Support and C++ (Advanced)
+- 👀 I’m interested in IT Automation and System Administrative tasks and Google Cloud and services, as well as C, C++, Data Structure Algorithms and Linux OS
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on any Project that is creative and requires upgrading the skills or utilising whatever skills i have to the best.
 - 📫 How to reach me : mail me at : surajsingh5092@gmail.com
 
