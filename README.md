@@ -9,7 +9,7 @@
 - Great love for ```sudo```
 - I am looking forward to collaborate in any Project that is creative and requires upgrading the skills or utilising whatever skills i have to the best.
 
-[![suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-singh12&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-singh12&theme=github_dark&show_icons=true&count_private=true)](https://github.com/suraj-singh12)
 
 ## Top Repositories
 <a href="https://github.com/suraj-singh12/Project-SearchEverywhere">
