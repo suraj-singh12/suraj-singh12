@@ -12,10 +12,16 @@
 [![suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-singh12&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Repositories
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/suraj-singh12/Project-SearchEverywhere">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-singh12&theme=jolly&repo=Project-SearchEverywhere" />
+</a>
+<a href="https://github.com/suraj-singh12/any-to-pdf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-singh12&theme=jolly&repo=any-to-pdf" />
+</a>
+<a href="https://github.com/suraj-singh12/Experimental-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-singh12&theme=jolly&repo=Experimental-Learning" />
+</a>
+<a href="https://github.com/suraj-singh12/CSE202CPPCodes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj-singh12&theme=jolly&repo=CSE202CPPCodes" />
 </a>
 
