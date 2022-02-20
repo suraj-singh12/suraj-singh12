@@ -5,7 +5,7 @@
 # Hello, folks! <img src="assets/wave.gif" width="30px">
 - I am Suraj Singh a second year B.Tech Computer Science and Engineering student.
 - I love ```C```, ```C++``` and ```Python```.
-- Learning Data Structure Algorithms, as well as doing Front End Web development.
+- Learning Data Structure Algorithms, as well as Full Stack Web development.
 - Great love for ```sudo```
 - I am looking forward to collaborate in any Project that is creative and requires upgrading the skills or utilising whatever skills i have to the best.
 
