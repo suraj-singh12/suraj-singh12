@@ -6,8 +6,7 @@
 
 I'm
 Full Stack Web Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+I had always been curious about how the websites were designed so good, attractive, and dynamic. Designing some pages, trying out different styles, and experimenting more made me fall in love with Web Development. And then started my journey to become a Full Stack Web Developer. Right now, I am a man in the making, progressively I learn more.
 
 ![Visitor Count](https://profile-counter.glitch.me/suraj-singh12/count.svg)
 
