@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Suraj-yellow)](https://stackoverflow.com/users/15249634/suraj-singh/)
 
 I'm
-Full Stack Web Developer.
-I had always been curious about how the websites were designed so good, attractive, and dynamic. Designing some pages, trying out different styles, and experimenting more made me fall in love with Web Development. And then started my journey to become a Full Stack Web Developer. Right now, I am a man in the making, progressively I learn more.
+Full Stack Web Developer in the making.
+I had always been curious about how the websites were designed so good, attractive, and dynamic. Designing static websites, trying out different styles, and experimenting more made me fall in love with Web Development. And then started my journey to become a Full Stack Web Developer. Right now, I am a man in the making, progressively learning more.
 
 ![Visitor Count](https://profile-counter.glitch.me/suraj-singh12/count.svg)
 
