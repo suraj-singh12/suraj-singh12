@@ -4,9 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Suraj-green)](https://suraj-singh12.github.io/suraj-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Suraj-yellow)](https://stackoverflow.com/users/15249634/suraj-singh/)
 
-I'm
-Full Stack Web Developer.
-I had always been curious about how the websites were designed so good, attractive, and dynamic. Designing static websites, trying out different styles, and experimenting more made me fall in love with Web Development. And then started my journey to become a Full Stack Web Developer. Right now, I am a man in the making, progressively learning more.
+I'm Full Stack Solution Architect. The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Bootstrap, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure), database(MongoDB,Mysql), CI/CD(Docker, kubernetes).
 
 ![Visitor Count](https://profile-counter.glitch.me/suraj-singh12/count.svg)
 
